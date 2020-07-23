@@ -1,0 +1,25 @@
+{
+  "name": "vr_av",
+  "version": "1.0.0",
+  "description": "e x p er i ments",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jdelorim/VR_AV.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jdelorim/VR_AV/issues"
+  },
+  "homepage": "https://github.com/Jdelorim/VR_AV#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.1.0",
+    "path": "^0.12.7"
+  }
+}
